@@ -1,2 +1,1 @@
-# JailbreakiOSVN
-[Install now](http://www.jailbreakiosvn.com)
+# [Install JailbreakiOSVN now !](http://www.jailbreakiosvn.com)
