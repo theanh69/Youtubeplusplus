@@ -11,19 +11,19 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string><![CDATA[https://drive.google.com/uc?export=host&id=176hX5ruWHnADJk5llseqjNGoARLeAQbg]]></string>
+            <string><![CDATA[https://drive.google.com/uc?export=host&id=1Gz7uDrFOSfsG-K-20YdHERCtdalE7h01]]></string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.jingwatchvip.WatchFace</string>
+          <string>com.google.ios.youtube</string>
           <key>bundle-version</key>
           <string><![CDATA[unknown]]></string>
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string><![CDATA[静静表盘]]></string>
+          <string><![CDATA[Youtube++ by THEANH]]></string>
         </dict>
       </dict>
     </array>
